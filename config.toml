@@ -1,0 +1,4 @@
+[params.hugopress.modules.mermaid.hooks.body-end]
+
+[params.mermaid]
+js_url = "https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.min.js"
