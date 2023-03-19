@@ -1,0 +1,3 @@
+{{- if or (.HasShortcode "mermaid") (.Store.Get "hasMermaid") }}
+<script src="{{ .Site.Params.mermaid.js_url }}" defer></script>
+{{- end -}}

@@ -1,0 +1,17 @@
+{
+  "name": "Hugo Mermaid Module",
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/hugomods/mermaid/issues"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  },
+  "homepage": "https://github.com/hugomods/mermaid",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomods/mermaid.git"
+  }
+}
