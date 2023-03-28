@@ -5,27 +5,4 @@
 [![License](https://img.shields.io/github/license/hugomods/mermaid?style=flat-square)](https://github.com/hugomods/mermaid/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/hugomods/mermaid?label=version&style=flat-square)](https://github.com/hugomods/mermaid/tags)
 
-## Installation
-
-### 1. Import Module
-
-```toml
-[[module.imports]]
-path = "github.com/hugomods/mermaid"
-```
-
-### 2. Import the JavaScript
-
-> Skip this step if your theme supports [HugoPress](https://github.com/razonyang/hugopress).
-
-```go
-{{ partial "mermaid/assets/js" . }}
-```
-
-## Configuration
-
-The site parameters as following.
-
-| Parameter        |  Type  |              Default              | Description             |
-| ---------------- | :----: | :-------------------------------: | ----------------------- |
-| `mermaid.js_url` | String | Latest version from JS Delivr CDN | The Mermaid script URL. |
+This module add Mermaid support for Hugo, see the [documentations](https://hugomods.com/en/docs/content/mermaid/) for details.
