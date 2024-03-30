@@ -5,4 +5,4 @@
 [![License](https://img.shields.io/github/license/hugomods/mermaid?style=flat-square)](https://github.com/hugomods/mermaid/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/hugomods/mermaid?label=version&style=flat-square)](https://github.com/hugomods/mermaid/tags)
 
-This module add Mermaid support for Hugo, see the [documentations](https://hugomods.com/en/docs/content/mermaid/) for details.
+This module add Mermaid support for Hugo, see the [documentation](https://hugomods.com/en/docs/content/mermaid/) for details.
