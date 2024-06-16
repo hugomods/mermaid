@@ -2,6 +2,9 @@
 min = "0.110.0"
 
 [params.hugopress.modules.mermaid.hooks.body-end]
+partial = "mermaid/assets/js"
+cacheable = true
+cache_store_key = "hasMermaid"
 
 [params.mermaid]
 js_url = "https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs"

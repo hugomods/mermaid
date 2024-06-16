@@ -1,4 +1,4 @@
-{{- if or (.HasShortcode "mermaid") (.Store.Get "hasMermaid") }}
+{{- if .Store.Get "hasMermaid" }}
   <script type="module">
     import mermaid from "{{ .Site.Params.mermaid.js_url }}";
   </script>
