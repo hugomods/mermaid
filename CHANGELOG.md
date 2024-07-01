@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hugomods/mermaid/compare/v0.1.2...v0.1.3) (2024-07-01)
+
+
+### Bug Fixes
+
+* format diagram by adding tab at the beginning of newline ([8913978](https://github.com/hugomods/mermaid/commit/8913978ba28046c2e9adb190e94353de2ed788c9))
+
 ## [0.1.2](https://github.com/hugomods/mermaid/compare/v0.1.1...v0.1.2) (2024-06-30)
 
 
