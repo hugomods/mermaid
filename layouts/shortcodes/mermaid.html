@@ -1,4 +1,4 @@
 {{ .Page.Store.Set "hasMermaid" true -}}
 <pre class="mermaid">
-    {{- .Inner | safeHTML -}}
+    {{- .Inner | replaceRE "\n" "\n\t" -}}
 </pre>
