@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/hugomods/mermaid/compare/v0.1.3...v0.1.4) (2024-07-02)
+
+
+### Bug Fixes
+
+* format diagram for mermaid shortcode ([930b333](https://github.com/hugomods/mermaid/commit/930b333cd44a95512c02cd56ed8dca94d6795130))
+
 ## [0.1.3](https://github.com/hugomods/mermaid/compare/v0.1.2...v0.1.3) (2024-07-01)
 
 
